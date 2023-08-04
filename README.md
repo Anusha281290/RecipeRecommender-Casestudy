@@ -1,5 +1,6 @@
 # RecipeRecommender-Casestudy
 EDA using Pyspark
+
 **The end objective of this entire assignment is to perform Exploratory Data Analysis and feature extraction from the raw data.** 
 
 For this case study, you will need to use Spark on Elastic Map Reduce service (EMR). 
